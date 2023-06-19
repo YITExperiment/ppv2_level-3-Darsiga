@@ -1,0 +1,5 @@
+age=input('How old are you?')
+print(age)
+weight=input('what is your weight?')
+print(weight)
+print('my age is',age,',','my weight is',weight)
